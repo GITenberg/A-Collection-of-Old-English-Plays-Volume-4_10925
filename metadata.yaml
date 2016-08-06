@@ -1,0 +1,30 @@
+_repo: A-Collection-of-Old-English-Plays-Volume-4_10925
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Bullen, A. H. (Arthur Henry)
+    aliases:
+    - Butler, A. H.
+    - Bullen, Arthur Henry
+    birthdate: 1857
+    deathdate: 1920
+    gutenberg_agent_id: '3753'
+    url: http://www.gutenberg.org/2009/agents/3753
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Henry_Bullen
+description: ''
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10925'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama -- Early modern and Elizabethan, 1500-1600'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Two tragedies in one, by Robert Yarington -- The captives, by Thomas
+  Heywood -- The costlie whore -- Everie woman in her humor.
+title: A Collection of Old English Plays, Volume 4
+url: http://www.gutenberg.org/ebooks/10925
